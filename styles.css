@@ -76,4 +76,12 @@
   .demo-button:hover {
     background-color: #005582;
   }
+  .slogan-icon {
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    margin-left: 8px;
+  }
+  
+  
   
