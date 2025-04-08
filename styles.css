@@ -61,3 +61,19 @@
     color: #333;
   }
   
+  .demo-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 15px;
+    background-color: #0073b1; /* LinkedIn Blue */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .demo-button:hover {
+    background-color: #005582;
+  }
+  
